@@ -1,2 +1,2 @@
-# Python_Study
+# CODE_Python_Study
 这个仓库是我学习Python的demo代码
